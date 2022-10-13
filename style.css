@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* HEADER */
+.header .container-fluid .row .col-6:nth-child(1) img{
+    width: 30%;
+}
+
+.header .container-fluid .row .col-6:nth-child(2) ul{
+    list-style-type: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.header .container-fluid .row .col-6:nth-child(2) ul li{
+    float: left;
+    padding-left: 10px;
+    font-size: 14px;
+    font-style: initial;
+}
+
